@@ -35,7 +35,7 @@ An internal HTTP client allows for immediate verification of payloads.
     -   **Baseline Pinning**: Pin a request to store its "known good" state (both request and response).
     -   **Visual Diff**: Subsequent requests (e.g., after modifying a payload) are compared against the pinned baseline.
     
-    ![Diff View](screenshots/Comparing.png)
+    ![Diff View](screenshots/Requestal.png)
 
     -   **Smart Diff**: Ignores trivial changes (timestamps, nonces) to highlight only semantic differences (status codes, error messages).
 
