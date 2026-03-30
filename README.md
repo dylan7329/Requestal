@@ -35,7 +35,7 @@ To install Requestal, follow these steps:
    Click on the download link for the extension that matches your operating system.
 
 3. **Install in Chrome**  
-   After downloading, locate the downloaded file. Open Google Chrome, go to the Extensions page by clicking on the three dots in the upper right corner, then select **More Tools** > **Extensions**. Enable "Developer mode" at the top right. Click on **Load unpacked** and select the folder where the extension files are located.
+   After downloading, locate the downloaded file. Open Google Chrome, go to the Extensions page by clicking on the three dots in the upper right corner, then select **More Tools** > **Extensions**. Enable "Developer mode" at the top right. Click on **Load unpacked** and select the folder containing the extension files.
 
 4. **Activate the Extension**  
    Once installed, you’ll see Requestal in your Chrome extensions. Click on it to start using its features.
@@ -58,13 +58,13 @@ Using Requestal is simple. Here’s how you can get started:
 ## 💡 Tips and Best Practices
 - Always test in a controlled environment to avoid impacting production systems.
 - Use Requestal to document your testing process and findings for future reference.
-- Familiarize yourself with common HTTP status codes to better understand your testing results.
+- Familiarize yourself with common HTTP status codes to understand your testing results better.
 
 ## 🛠️ Troubleshooting
 If you encounter issues while using Requestal, consider the following:
 
 - **Extension Not Loading:** Ensure that your Chrome browser is updated. Restarting Chrome can also resolve temporary loading issues.
-- **Feature Not Working:** Check your permissions and settings. Make sure Requestal has access to necessary network requests.
+- **Feature Not Working:** Check your permissions and settings. Make sure Requestal has access to the necessary network requests.
 
 ## 🌐 Stay Connected
 We welcome contributions and feedback. Join our community on GitHub, where you can report issues or suggest features.
